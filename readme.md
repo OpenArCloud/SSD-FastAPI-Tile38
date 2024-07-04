@@ -26,7 +26,8 @@ Update of [OSCP Spatial Service Discovery](https://github.com/OpenArCloud/oscp-s
 
 1. Clone and install
     ```sh
-    git clone https://github.com/OpenArCloud/ssd-fastapi-tile38.git
+    git clone https://github.com/OpenArCloud/SSD-FastAPI-Tile38.git
+    cd SSD-FastAPI-Tile38
     poetry install
     ```
 2. Setup environment
